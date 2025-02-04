@@ -1,27 +1,3 @@
-Berikut adalah seluruh konten README.md dalam satu file yang siap Anda salin dan tempel ke repositori GitHub Anda:
-
-```markdown
-# CSV to Text Table Converter
-
-A Python utility to convert CSV files into beautifully formatted text tables with automatic column adjustment and numbering.
-
-![Example Output](https://via.placeholder.com/600x200.png?text=CSV+to+Text+Table+Example)
-
-## Features
-
-- 📁 **CSV to Text Conversion**: Transform any CSV file into readable text tables
-- 🔢 **Auto-Numbering**: Automatically adds sequence numbers
-- 📏 **Dynamic Column Width**: Adjusts columns based on content length
-- 🌐 **Multi-Environment Support**: Works both in CLI and Google Colab
-- 🎨 **Customizable Format**: Easy to modify table styling and layout
-
-## Installation
-
-```bash
-git clone https://github.com/yourusername/csv-to-text-table.git
-cd csv-to-text-table
-```
-
 ## Usage
 
 ### Command Line Version
